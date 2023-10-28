@@ -1,0 +1,23 @@
+ /*univrsal selector*/
+ *{
+  text-align: center;
+  color: blue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ /*element selector*/
+  p{
+    background-color: blue;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+/*div element selector*/
+div{
+    background-color: aqua;
+}
+/*id selector(#)*/
+#uniqueHeading {
+  color: red;
+  background-color: aqua;
+  border: 2px solid black;
+
+}
