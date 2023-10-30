@@ -5,9 +5,9 @@ body{
     background-repeat: no-repeat;
     /*background-position: center;*/
     background-size:20%
-    background-position: right top;
-    margin-right :200px
-    background-attachment:scroll;
+    background-position  right top;
+    margin-right 
+    background-attachment;scroll,
 }
   /*h1{
     background-color: rgba (0, 128,0, 0.3);
