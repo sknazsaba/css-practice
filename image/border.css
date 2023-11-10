@@ -1,0 +1,8 @@
+.double{
+    border-style: double;
+    width: 30px;
+    height: 50px;
+}
+.ridgezx{
+    border-style: ridge;
+}
